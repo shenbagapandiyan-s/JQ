@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testResults version="1.2">
+<httpSample t="4478" lt="4478" ts="1344942439283" s="true" lb="HTML5Widget_FrameWork" rc="200" rm="OK" tn="HTML5_Jquery_HTTP Request 1-1" dt="text" by="8943"/>
+
+</testResults>
